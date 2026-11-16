@@ -1,3 +1,10 @@
+## Tracking
+
+<!-- Fill when drafting. Use local time with offset so the repo is searchable without GitHub UI. -->
+
+- **Created:** `YYYY-MM-DD HH:mm (UTC+7)`
+- **Updated:** `YYYY-MM-DD HH:mm (UTC+7)`
+
 ## Summary
 
 <!-- 1–3 bullets: what changed and why -->
@@ -45,7 +52,5 @@
 |
 
 ## Notes / risks
-
--
 
 -
